@@ -3,7 +3,7 @@
 ---
 
 # dapp
-## RigoBlock Decentralized Applications Hub
+## RigoBlock Platform DApp
 ### Output files of our dapp:
  can optionally be run completely locally by creati the new folder:
  ```
