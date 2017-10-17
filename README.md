@@ -1,9 +1,13 @@
+<img src="https://raw.githubusercontent.com/RigoBlock/PR/master/1441400_10153552843930051_1897002707_n.png" width="100px" >
+
+---
+
 # dapp
 ## RigoBlock Decentralized Applications Hub
-### Expert Users can clone this repo:
- create a new folder like:
+### Output files of our dapp:
+ can optionally be run completely locally by creati the new folder:
  ```
  .local/share/io.parity.ethereum/dapps/rigoblock
  ```
- and copy the files there.
- Then fire up the parity ui and you will find it on the top of the "applications" section.
+ and paste the files there.
+ You can find this application in the Parity Dapp Store.
