@@ -5,9 +5,10 @@
 # dapp
 ## RigoBlock Platform DApp
 ### Output files of our dapp:
- can optionally be run completely locally by creati the new folder:
+### To update dapp: update *static* folder, then update content bundle hash in dapp-dappregistration in the Parity UI.
+ can optionally be run completely locally by creatig the new folder:
  ```
- .local/share/io.parity.ethereum/dapps/rigoblock
+ .local/share/io.parity.ethereum/dapps/rigoblock-david
  ```
  and paste the files there.
- You can find this application in the Parity Dapp Store.
+ You can find this application in the Parity Dapp Store in the section *Applications*.
