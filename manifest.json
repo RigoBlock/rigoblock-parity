@@ -1,8 +1,8 @@
 {
   "id": "rigoblock",
   "name": "RigoBlock",
-  "description": "RigoBlock lets you interact with Gabcoin, Drago and Exchange",
-  "author": "Gabriele Rigo",
+  "description": "RigoBlock: Decentralized Pools of Digital Tokens",
+  "author": "RigoBlock Team <admin@rigoblock.com>",
   "version": "0.3.1",
   "iconUrl": ""
 }
