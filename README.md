@@ -4,6 +4,7 @@
 
 # dapp
 ## RigoBlock Platform DApp
+## Note: manifest.json is parity specific, must be kept as such
 ### Output files of our dapp:
 ### To update dapp: update *static* folder, then update content bundle hash in dapp-dappregistration in the Parity UI.
  can optionally be run completely locally by creatig the new folder:
