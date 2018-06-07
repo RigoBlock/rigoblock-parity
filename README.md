@@ -1,4 +1,5 @@
 <img src="https://raw.githubusercontent.com/RigoBlock/PR/master/1441400_10153552843930051_1897002707_n.png" width="50px" >
+<img src="https://github.com/RigoBlock/PR/blob/master/new-logos/PNG%20RGB/Logo-RigoblockRGB-OUT-02.png" width="50px" >
 
 ---
 
